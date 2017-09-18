@@ -1,4 +1,4 @@
-package com.zihao.mobike;
+package com.mobike.library;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

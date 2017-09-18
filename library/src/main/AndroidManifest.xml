@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 
-          package="com.zihao.mobike"
+          package="com.mobike.library"
 >
 
     <application android:allowBackup="true"

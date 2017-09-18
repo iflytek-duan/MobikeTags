@@ -1,4 +1,4 @@
-package com.zihao.mobike;
+package com.mobike.library;
 
 import org.junit.Test;
 
